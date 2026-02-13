@@ -63,7 +63,7 @@ This demonstration highlights a critical requirement for secure RSA key generati
 - ❌ DON'T use prime numbers generated sequentially
 Modern RSA implementations use secure random prime generation with sufficient distance between factors to prevent this attack.
 
-##📚 Educational Value
+## 📚 Educational Value
 
 This project is excellent for learning about:
 - RSA cryptosystem fundamentals
